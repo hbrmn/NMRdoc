@@ -1,0 +1,1 @@
+Make a log of every file change to see what files were changed in a user session.
